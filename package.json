@@ -2,6 +2,7 @@
 	"author": "Ashley Mazzonna",
 	"name": "fcc-learn-npm-package-json",
 	"description": "Free Code Camp Project - Managing packages with NPM",
+	"keywords": ["freeCodeCamp", "NPM", "Node", "packages"],
 		"dependencies": {
 		"express": "^4.14.0"
 	},
