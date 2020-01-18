@@ -12,6 +12,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+		"url": "https://github.com/ashleymazzonna/fcc_npm.git"
+	}, 
+	"author": "Ashley Mazzonna"
 }
