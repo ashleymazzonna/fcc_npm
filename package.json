@@ -4,7 +4,8 @@
 	"description": "Free Code Camp Project - Managing packages with NPM",
 	"keywords": ["freeCodeCamp", "NPM", "Node", "packages"],
 	"license": "MIT",
-		"dependencies": {
+	"version": "1.2.0",
+			"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
