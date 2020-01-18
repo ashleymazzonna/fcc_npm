@@ -1,7 +1,8 @@
 {
 	"author": "Ashley Mazzonna",
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
+	"description": "Free Code Camp Project - Managing packages with NPM",
+		"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
